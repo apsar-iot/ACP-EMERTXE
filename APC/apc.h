@@ -14,4 +14,3 @@ typedef struct node
 /* Include the prototypes here */
 
 #endif
-hii
